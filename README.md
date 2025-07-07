@@ -1,4 +1,6 @@
 [![CI](https://github.com/CookieMonsterTeam/CookieMonster/actions/workflows/CI.yml/badge.svg)](https://github.com/CookieMonsterTeam/CookieMonster/actions/workflows/CI.yml)
+Lastdeployedon Mar 17
+http://cookiemonsterteam.github.io/CookieMonster/
 
 ## Cookie Monster
 
